@@ -1,0 +1,56 @@
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.exe.config
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.exe
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.pdb
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.AssemblyReference.cache
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\MainWindow.g.cs
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\App.g.cs
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking_MarkupCompile.cache
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\MainWindow.baml
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.g.resources
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.Properties.Resources.resources
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.GenerateResource.cache
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.CoreCompileInputs.cache
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.exe
+S:\2 курс ИСП2331\Калдарбеков Артур\ПР2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.pdb
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.exe.config
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.exe
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.pdb
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.AssemblyReference.cache
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\MainWindow.baml
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\MainWindow.g.cs
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\App.g.cs
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking_MarkupCompile.cache
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.g.resources
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.Properties.Resources.resources
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.GenerateResource.cache
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.CoreCompileInputs.cache
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.exe
+S:\2 курс ИСП2131\Джавадов Эмиль\мдк 2\CLassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.pdb
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.exe.config
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.AssemblyReference.cache
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\MainWindow.baml
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\MainWindow.g.cs
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\App.g.cs
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking_MarkupCompile.cache
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.g.resources
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.Properties.Resources.resources
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.GenerateResource.cache
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.CoreCompileInputs.cache
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.exe
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.pdb
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.exe
+S:\2 курс ИСП2131\Джонни\ClassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.pdb
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.exe.config
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.exe
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\bin\Debug\CLassroomBooking.pdb
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.AssemblyReference.cache
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\MainWindow.baml
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\MainWindow.g.cs
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\App.g.cs
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking_MarkupCompile.cache
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.g.resources
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.Properties.Resources.resources
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.GenerateResource.cache
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.csproj.CoreCompileInputs.cache
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.exe
+S:\2 курс ИСП2131\Мустаянбек Нурсултан\МДК\ClassroomBooking\CLassroomBooking\obj\Debug\CLassroomBooking.pdb
